@@ -1,2 +1,2 @@
-# Curriculum-Vitae_Brena
+# Curriculum_Brena
 Trabalho de Computação em Nuvem
